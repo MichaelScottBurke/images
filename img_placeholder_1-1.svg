@@ -1,0 +1,5 @@
+<svg width="464" height="464" viewBox="0 0 464 464" fill="none" preserveAspectRatio="xMaxYMin" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="462" height="462" fill="#EDF4F9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M344 256L263.741 128L229.967 182.214C220.442 178.212 209.979 176 199 176C154.817 176 119 211.817 119 256C119 300.183 154.817 336 199 336C243.183 336 279 300.183 279 256L344 256ZM184 256L279 256C279 222.797 258.772 194.318 229.967 182.214L184 256Z" fill="#549AC8"/>
+<rect x="1" y="1" width="462" height="462" stroke="#549AC8" stroke-width="2"/>
+</svg>
